@@ -6,4 +6,4 @@
 ![Screenshot 2](./assets/2nd.png)  
 
 ### Mobile View
-![Mobile View](./assets/1st.png)
+![Mobile View](./assets/mobile.png)
