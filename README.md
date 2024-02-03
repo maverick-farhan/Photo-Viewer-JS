@@ -2,8 +2,8 @@
 
 ## Screenshot
 ### Desktop
-![image](assets/1st.png)  
-![image](assets/2nd.png)  
+![Screenshot 1](./assets/1st.png)  
+![Screenshot 2](./assets/2nd.png)  
 
 ### Mobile View
-![image](assets/mobile.png)
+![Mobile View](./assets/1st.png)
